@@ -3,7 +3,7 @@ body {
 }
 
 .login {
-    color: white;
+    color: black;
     width: 100%;
     display:flex;
     justify-content: space-evenly;
